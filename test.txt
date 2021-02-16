@@ -1,2 +1,3 @@
 It's a test file.
 It's a test sentence.
+test add command.
